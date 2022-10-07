@@ -1,0 +1,15 @@
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\bin\Debug\net6.0\slåssspel.exe
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\bin\Debug\net6.0\slåssspel.deps.json
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\bin\Debug\net6.0\slåssspel.runtimeconfig.json
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\bin\Debug\net6.0\slåssspel.dll
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\bin\Debug\net6.0\slåssspel.pdb
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\obj\Debug\net6.0\slåssspel.csproj.AssemblyReference.cache
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\obj\Debug\net6.0\slåssspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\obj\Debug\net6.0\slåssspel.AssemblyInfoInputs.cache
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\obj\Debug\net6.0\slåssspel.AssemblyInfo.cs
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\obj\Debug\net6.0\slåssspel.csproj.CoreCompileInputs.cache
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\obj\Debug\net6.0\slåssspel.dll
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\obj\Debug\net6.0\refint\slåssspel.dll
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\obj\Debug\net6.0\slåssspel.pdb
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\obj\Debug\net6.0\slåssspel.genruntimeconfig.cache
+C:\Users\edvin.arvesjo\Desktop\C#\slåssspel\slåssspel\obj\Debug\net6.0\ref\slåssspel.dll
